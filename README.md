@@ -264,9 +264,3 @@ npm run migrate
 # Start the development server
 npm run dev
 ```
-
----
-
-## 📄 License
-
-Add your license here.
